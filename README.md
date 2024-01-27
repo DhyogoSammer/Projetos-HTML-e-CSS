@@ -2,7 +2,7 @@
 
 <p align="justify"> Projetos feitos com Html e Css, Linguagem de Marcação e Linguagem de Estilo </p>
 
-<h1 align="center"> [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) </h1>
+<p align="center"> [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) </p>
 
 
 
