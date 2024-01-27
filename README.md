@@ -2,6 +2,6 @@
 
 <p align="justify"> Projetos feitos com Html e Css, Linguagem de Marcação e Linguagem de Estilo </p>
 
-![Html Icone]("http://www.w3.org/2000/svg")
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
